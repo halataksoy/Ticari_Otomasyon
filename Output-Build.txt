@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Ticari_Otomasyon, Configuration: Debug Any CPU ------
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(1): error LC0003: Unable to resolve type 'DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v21.2.5, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(2): error LC0003: Unable to resolve type 'DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v21.2.5, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(3): error LC0003: Unable to resolve type 'DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v21.2.5, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(4): error LC0003: Unable to resolve type 'DevExpress.XtraTabbedMdi.XtraTabbedMdiManager, DevExpress.XtraBars.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(5): error LC0003: Unable to resolve type 'DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+1>C:\Users\Halat\Desktop\Ticari_Otomasyon\Properties\licenses.licx(6): error LC0003: Unable to resolve type 'DevExpress.XtraEditors.ComboBoxEdit, DevExpress.XtraEditors.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
